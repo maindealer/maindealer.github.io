@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "HaJun Lee"
-  avatar           : 'digda.png'
+  avatar           : 'tux.png'
   bio              : "안녕하세요, 이하준입니다."
   location         : "Ulsan, Korea"
   email            :  "maindealer@naver.com"
@@ -319,7 +319,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false # 읽는데 걸리는 소요시간 표시
+      show_date: true # 포스팅 날짜 표시
       comments: # true
       share: true
       related: true
