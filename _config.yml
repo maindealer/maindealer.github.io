@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "HaJun Lee"
-  avatar           : 'Tux.svg.png'
+  avatar           : 'assets/Tux.svg.png'
   bio              : "잠온다"
   location         : "Ulsan, Korea"
   email            : "maindealer@naver.com"
