@@ -1,6 +1,6 @@
 ---
-title:  "깃허브 프로필부터 포크까지 한방에 끝내기"
-excerpt: "프로필 꾸미기, 레포지토리 Fork와 Pull Request(PR)까지 한방에! "
+title:  "파이썬 30일만에 끝내기"
+excerpt: "그렇다고 한다."
 
 categories:
   - tips
@@ -8,7 +8,7 @@ categories:
 tags:
   - 깃허브
 
-toc_label: 깃허브
+toc_label: 깃허브ㄴ
 toc: true
 toc_sticky: true
  
@@ -16,8 +16,16 @@ date: 2024-08-20
 last_modified_at: 2024-08-20
 ---
 
-# 따라써봄.
+# 목차 I
+## 목차 I-I
+### 목차 I-I-I
+- 내용 1
+- 내용 2
+## 목차 I-II
+## 목차 I-III
+# 목차 II
+# 목차 III
+# 목차 IV
 
-ㅋㅋ
 
 <br>
