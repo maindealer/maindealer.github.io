@@ -8,7 +8,7 @@ categories:
 tags:
   - 깃허브
 
-toc_label: 깃허브ㄴ
+toc_label: 깃허브
 toc: true
 toc_sticky: true
  
